@@ -24,6 +24,7 @@ public class esPalindromo {
 	       System.out.println("is " + s3 + " a palindrome? " + b3);
 	       System.out.println("is " + s4 + " a palindrome? " + b4);
 
+		   //Modificado por Pablo Somavilla Martin
 
 	   }
 }
